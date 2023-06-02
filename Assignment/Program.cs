@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class InventoryItem
 {
     public string Name { get; }
-    public double Weight { get; }
+    public double Weight { get; } 
     public double Volume { get; }
 
     public InventoryItem(string name, double weight, double volume)
