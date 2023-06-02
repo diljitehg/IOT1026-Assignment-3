@@ -11,6 +11,9 @@
     </a>
 </p>
 
+        [![ci](https://github.com/diljitehg/IOT1026-Assignment-3/actions/workflows/ci.yml/badge.svg?event=create)](https://github.com/diljitehg/IOT1026-Assignment-3/actions/workflows/ci.yml)
+        
+        
 # IOT1026-Assignment-3
         
 The project is a console application that simulates a pack or backpack used for storing various inventory items. It consists of three classes: InventoryItem, Pack, and PackTester.
