@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AssignmentTest
-{
+{ 
     [TestClass]
     public class PackTests
     {
