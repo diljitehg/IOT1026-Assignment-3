@@ -9,10 +9,7 @@
     <img src="https://codecov.io/gh/GwGibson/IOT1026-Assignment-3/branch/main/graph/badge.svg?token=JS0857X5JD"/> 
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
-</p>
-
-        [![ci](https://github.com/diljitehg/IOT1026-Assignment-3/actions/workflows/ci.yml/badge.svg?event=create)](https://github.com/diljitehg/IOT1026-Assignment-3/actions/workflows/ci.yml)
-        
+</p>        
         
 # IOT1026-Assignment-3
         
